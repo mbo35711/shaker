@@ -1,0 +1,11 @@
+{
+  "name": "shaker",
+  "version": "1.0.0",
+  "description": "Shaker is a node/electron app with a user interface that allows its user to create dynamic representations of moving and interacting geometrical objects made up from point and lines.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael",
+  "license": "ISC"
+}
